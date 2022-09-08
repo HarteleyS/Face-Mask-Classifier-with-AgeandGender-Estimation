@@ -1,5 +1,7 @@
 # Face-Mask-Classifier
 
+IT IS RECOMMENDED TO OPEN THIS FILE ON GITHUB, BECAUSE THIS FILE INCLUDE IMAGES
+
 All the files can be found on Google Drive: 
 
 File Directories:
@@ -11,7 +13,7 @@ ResearchProject/face_detector/deploy.prototxt (is the prototext file)
 ResearchProject/face_detector/res10_300x300_ssd_iter_140000.caffemodel (is the caffe model or weight file)
 
 ResearchProject/models/TrainingFile.ipnyb (is a notebook for the code of data preprocessing, hyperparameter tuning, and models training)
-ResearchProject/models/VGG16    .h5 (is the weight of the VGG-16 model)
+ResearchProject/models/VGG16.h5 (is the weight of the VGG-16 model)
 ResearchProject/models/RESNET.h5 (is the weight of the ResNet-50 model)
 ResearchProject/models/MOBILENET.h5 (is the weight of the MobileNet_V2 model)
 ResearchProject/models/GOOGLENET.h5 (is the weight of the GoogleNet model)
