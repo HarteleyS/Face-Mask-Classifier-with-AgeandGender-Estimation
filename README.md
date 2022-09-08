@@ -2,7 +2,7 @@
 
 IT IS RECOMMENDED TO OPEN THIS FILE ON GITHUB, BECAUSE THIS FILE INCLUDE IMAGES
 
-All the files can be found on Google Drive: 
+All the files can be found on Google Drive: https://drive.google.com/drive/folders/1NPNusl3vAaxsbTx9I-TOlymqrUzEVU_8?usp=sharing
 
 File Directories:
 1. Application:
