@@ -5,26 +5,31 @@ IT IS RECOMMENDED TO OPEN THIS FILE ON GITHUB, BECAUSE THIS FILE INCLUDE IMAGES
 All the files can be found on Google Drive: 
 
 File Directories:
-ResearchProject/Face_mask_withAgeandGender.py (is the main code file for the application)
+1. Application:
+- ResearchProject/Face_mask_withAgeandGender.py (is the main code file for the application)
 
-ResearchProject/dataset (is the dataset we use to train our CNN models for Face-Mask Classifier)
+2. Dataset:
+- ResearchProject/dataset (is the dataset we use to train our CNN models for Face-Mask Classifier)
 
-ResearchProject/face_detector/deploy.prototxt (is the prototext file)
-ResearchProject/face_detector/res10_300x300_ssd_iter_140000.caffemodel (is the caffe model or weight file)
+3. Face Detector:
+- ResearchProject/face_detector/deploy.prototxt (is the prototext file)
+- ResearchProject/face_detector/res10_300x300_ssd_iter_140000.caffemodel (is the caffe model or weight file)
 
-ResearchProject/models/TrainingFile.ipnyb (is a notebook for the code of data preprocessing, hyperparameter tuning, and models training)
-ResearchProject/models/VGG16.h5 (is the weight of the VGG-16 model)
-ResearchProject/models/RESNET.h5 (is the weight of the ResNet-50 model)
-ResearchProject/models/MOBILENET.h5 (is the weight of the MobileNet_V2 model)
-ResearchProject/models/GOOGLENET.h5 (is the weight of the GoogleNet model)
-ResearchProject/models/NASNET.h5 (is the weight of the NasNet model, the current one use on the main application)
+4. Face-Mask Classifier:
+- ResearchProject/models/TrainingFile.ipnyb (is a notebook for the code of data preprocessing, hyperparameter tuning, and models training)
+- ResearchProject/models/VGG16.h5 (is the weight of the VGG-16 model)
+- ResearchProject/models/RESNET.h5 (is the weight of the ResNet-50 model)
+- ResearchProject/models/MOBILENET.h5 (is the weight of the MobileNet_V2 model)
+- ResearchProject/models/GOOGLENET.h5 (is the weight of the GoogleNet model)
+- ResearchProject/models/NASNET.h5 (is the weight of the NasNet model, the current one use on the main application)
 
-ResearchProject/gad/opencv_face_detector.pbtxt (is the pbtext file)
-ResearchProject/gad/opencv_face_detector_uint8.pb (is the pb file)
-ResearchProject/gad/age_deploy.prototxt (is the age prototext file)
-ResearchProject/gad/age_net.caffemodel (is the age caffe model or weight file)
-ResearchProject/gad/gender_deploy.prototxt (is the gender prototext file)
-ResearchProject/gad/gender_net.caffemodel (is the gender caffe model or weight file)
+5. Age and Gender Predictor:
+- ResearchProject/gad/opencv_face_detector.pbtxt (is the pbtext file)
+- ResearchProject/gad/opencv_face_detector_uint8.pb (is the pb file)
+- ResearchProject/gad/age_deploy.prototxt (is the age prototext file)
+- ResearchProject/gad/age_net.caffemodel (is the age caffe model or weight file)
+- ResearchProject/gad/gender_deploy.prototxt (is the gender prototext file)
+- ResearchProject/gad/gender_net.caffemodel (is the gender caffe model or weight file)
 
 Using the application:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
