@@ -1,6 +1,6 @@
 # Face-Mask-Classifier
 
-IT IS RECOMMENDED TO OPEN THIS FILE ON GITHUB, BECAUSE THIS FILE INCLUDE IMAGES
+IT IS RECOMMENDED TO OPEN THIS FILE ON GITHUB, BECAUSE THIS FILE INCLUDE IMAGES: https://github.com/HarteleyS/Face-Mask-Classifier
 
 The files on the zipped folder only contain the main code fore the application and notebook for training the CNN models. Necessary 
 files can be found by following the guide below.
